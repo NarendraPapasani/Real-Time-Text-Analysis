@@ -4,6 +4,8 @@
 
 React Text Analyzer is a web application that allows users to analyze and manipulate text. It provides features such as counting unique words, character count, and a search and replace functionality with highlighted results.
 
+deployed Link : https://statuesque-travesseiro-aab950.netlify.app/
+
 ## Features
 
 - Real-time text analysis
